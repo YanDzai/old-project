@@ -1,0 +1,142 @@
+body{
+    background-color:#EAD589;
+}
+.remon{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.lion a {
+    float: left;
+}
+
+.lion a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+    transition: all 0.7s ease;
+}
+
+.lion a:hover {
+    background-color:palegoldenrod;
+    color: #333;
+}
+
+.red{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+    border-radius: 200px;
+    transition: all 0.4s ease;
+}
+.red:hover{
+    border-radius:15%;
+    box-shadow: 0 10px 10px black;
+}
+.RESE{
+  font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.priv{
+    font-size: 200%;
+  font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.grob{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.rbdf{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+    border-radius: 200px;
+    transition: all 0.4s ease;
+}
+.rbdf:hover{
+    border-radius: 15%;
+    box-shadow: 0 10px 10px black;
+}
+.srek{
+    font-size: 200%;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+.sewdw{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.icantletgo{
+    width: 400px;
+    height: 400px;
+    margin-left: 35%;
+    border-radius: 200px;
+    transition: all 0.4s ease;
+}
+.icantletgo:hover{
+    border-radius: 15%;
+    box-shadow: 0 10px 10px black;
+}
+.look{
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.rentv{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.vertd{
+    width:400px;
+    height: 400px;
+    margin-left: 35%;
+    border-radius: 200px;
+    transition: all 0.4s ease;
+}
+.vertd:hover{
+    border-radius: 15%;
+    box-shadow: 0 10px 10px black;
+}
+.peaky{
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.pon{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.seit{
+    width: 150px;
+    height: 150px;
+    margin-left: 45%;
+    transition: all 0.3s ease;
+}
+.seit:hover{
+    height: 200px;
+    width: 200px;
+    box-shadow: 0 10px 10px black;
+}
+.swe{
+    width: 150px;
+    height: 150px;
+    margin-left: 45%;
+    
+    transition: all 0.3s ease;
+}
+.swe:hover{
+    width: 200px;
+    height: 200px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
